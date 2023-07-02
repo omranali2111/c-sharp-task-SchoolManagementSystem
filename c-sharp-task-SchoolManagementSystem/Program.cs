@@ -7,9 +7,14 @@ internal class Program
       Person person=new Person("omran",27,"seeb");
 
         string[] Courses = { "math", "IT" };
-
         Student student = new Student("1121", "A", Courses, "omran", 27, "seeb");
         student.displayStudent();
+
+        Console.WriteLine("****************************************************");
+
+        string[] subjects = { "math", "IT" };
+        Teacher teacher = new Teacher("ali", 48, "muscat", "2332", subjects);
+        teacher.displayTeacher();
 
 
     }

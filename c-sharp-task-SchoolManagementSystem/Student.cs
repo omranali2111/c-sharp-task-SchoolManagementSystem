@@ -21,7 +21,7 @@ namespace c_sharp_task_SchoolManagementSystem
         }
         public void displayStudent()
         {
-            Console.WriteLine($"student name: {Name} student age: {Age} student address: {Address}Studentid: {Studentid}  Grade {Grade} ");
+            Console.WriteLine($"student name: {Name} student age: {Age} student address: {Address} Studentid: {Studentid}  Grade {Grade} ");
             Console.WriteLine("courses are: ");
             for(int i = 0; i < Courses.Length; i++)
             {
