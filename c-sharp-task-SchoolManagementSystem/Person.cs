@@ -9,9 +9,9 @@ namespace c_sharp_task_SchoolManagementSystem
     
     internal class Person
     {
-        string Name;
-        int Age;
-        string Address;
+       public string Name;
+       public int Age;
+       public string Address;
 
         public Person(string Name,int Age,string Address) 
         { 
