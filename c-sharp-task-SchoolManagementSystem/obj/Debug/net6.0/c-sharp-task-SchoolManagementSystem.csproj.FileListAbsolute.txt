@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\bin\Debug\net6.0\c-sharp-task-SchoolManagementSystem.exe
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\bin\Debug\net6.0\c-sharp-task-SchoolManagementSystem.deps.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\bin\Debug\net6.0\c-sharp-task-SchoolManagementSystem.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\bin\Debug\net6.0\c-sharp-task-SchoolManagementSystem.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\bin\Debug\net6.0\c-sharp-task-SchoolManagementSystem.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\obj\Debug\net6.0\c-sharp-task-SchoolManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\obj\Debug\net6.0\c-sharp-task-SchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\obj\Debug\net6.0\c-sharp-task-SchoolManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\obj\Debug\net6.0\c-sharp-task-SchoolManagementSystem.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\obj\Debug\net6.0\c-sharp-task-SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\obj\Debug\net6.0\c-sharp-task-SchoolManagementSystem.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\obj\Debug\net6.0\refint\c-sharp-task-SchoolManagementSystem.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\obj\Debug\net6.0\c-sharp-task-SchoolManagementSystem.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\obj\Debug\net6.0\c-sharp-task-SchoolManagementSystem.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-task-SchoolManagementSystem\c-sharp-task-SchoolManagementSystem\obj\Debug\net6.0\ref\c-sharp-task-SchoolManagementSystem.dll
