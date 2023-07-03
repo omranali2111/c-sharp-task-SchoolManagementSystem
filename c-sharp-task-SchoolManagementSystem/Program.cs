@@ -16,6 +16,11 @@ internal class Program
         Teacher teacher = new Teacher("ali", 48, "muscat", "2332", subjects);
         teacher.displayTeacher();
 
+        Console.WriteLine("****************************************************");
+
+        Course course = new Course("A112", "Mathmatics", "teaching four level of math");
+        course.assignTeacher(teacher);
+        course.displayCourse();
 
     }
 }
